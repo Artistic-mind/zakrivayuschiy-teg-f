@@ -5,7 +5,7 @@
   --header-title-weight: 400;
   --header-text-weight: 400;
   --card-title-size: 1.125rem;
-  --card-title-weight: 715; 
+  --card-title-weight: 715;
   --save-button-width: clamp(19.125rem, 18.4868rem + 2.723vw, 20.9375rem);
   --save-button-height: clamp(5.25rem, 5.8882rem + -2.723vw, 3.4375rem);
   --dialog-btn-width: clamp(16.3125rem, 15.6083rem + 3.0047vw, 18.3125rem);
