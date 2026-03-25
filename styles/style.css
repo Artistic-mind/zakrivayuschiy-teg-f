@@ -19,7 +19,7 @@
   background-size:cover;
   background-attachment: fixed;
   color: var(--text-color);
-  background-position: top; 
+  background-position: top;
   background-repeat: no-repeat;
   margin: 0 auto;
 }
@@ -278,7 +278,7 @@ dialog::backdrop {
 }
 
 .button__text:hover::before {
-  transform: translateX(0); 
+  transform: translateX(0);
   cursor: pointer;
   color: #fff;
   background-color: #fff;
