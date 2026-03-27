@@ -1,18 +1,18 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
   --main-font: 'Inter-Variable';
-  --accent-font: 'PressStart2P-Regular';
+  --accent-font: 'PressStart2P';
   --header-title-weight: 400;
   --header-text-weight: 400;
   --card-title-size: 1.125rem;
   --card-title-weight: 715;
+  --image-size: clamp(23.1875rem, 16.0352rem + 30.5164vw, 43.5rem);
   --save-button-width: clamp(19.125rem, 18.4868rem + 2.723vw, 20.9375rem);
   --save-button-height: clamp(5.25rem, 5.8882rem + -2.723vw, 3.4375rem);
   --dialog-btn-width: clamp(16.3125rem, 15.6083rem + 3.0047vw, 18.3125rem);
   --block-width: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.75rem);
   --dialog-win-width: clamp(21.3125rem, 21.0484rem + 1.1268vw, 22.0625rem);
   --dialog-inline-padding: clamp(2.5rem, 2.7201rem + -0.939vw, 1.875rem);
-  --dialog-win-height: 191px;
   --main-text-weight: 410;
   --main-text-size: 1.125rem;
   --text-color: #000;
